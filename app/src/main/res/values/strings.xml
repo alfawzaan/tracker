@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tracker</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button">Sign In</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Aminu, Ademola, Ikechukwu</string>
+    <string name="nav_header_subtitle">aminu_ademola_ikechukwu@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_signout">SignOut</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="title_activity_map">Map</string>
+    <string name="myMsg"></string>
+    <string name="userIdText"></string>
+    <string name="messageText">Message</string>
+    <string name="to">To</string>
+    <string name="from">From</string>
+    <string name="textview">TextView</string>
+
+</resources>
